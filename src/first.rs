@@ -2,7 +2,7 @@ use std::mem;
 
 struct Node {
     elem: i32,
-    next: List,
+    next: Link,
 }
 
 enum Link {
